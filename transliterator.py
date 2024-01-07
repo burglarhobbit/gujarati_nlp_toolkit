@@ -1,5 +1,5 @@
-from utils.alphabet import alphabet, letters, utfalpha, punctuations
-from utils.gujarati_hindi import gu_hi, hi_gu
+from gujarati_nlp_toolkit.utils.alphabet import alphabet, letters, utfalpha, punctuations
+from gujarati_nlp_toolkit.utils.gujarati_hindi import gu_hi, hi_gu
 import re
 
 
